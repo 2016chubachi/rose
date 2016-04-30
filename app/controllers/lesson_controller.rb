@@ -66,7 +66,15 @@ class LessonController < ApplicationController
      @message = "How about you ? Please do your best for learning ruby on rails"
   end
 
-  
+  def step18
+    @zaiko = 10
+  end
+
+  def step19
+     @items = {"frypan" => 2680, "wine glass" => 2550, "paper mill" => 4515, "pillar" => 945}
+  end
+
+
 
 
 
