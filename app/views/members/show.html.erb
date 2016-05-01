@@ -1,0 +1,35 @@
+<% @page_title = "Detailed information of Member" %>
+
+<h1><%= @page_title %></h1>
+<p><%= link_to "edit", [:edit, @member] %> </p>
+
+<table class="attr">
+  <tr>
+    <th width= "150">Back number</th>
+    <td><%= @member.number %></td>
+  </tr>
+  <tr>
+    <th>User name</th>
+    <td><%= @member.name %></td>
+  </tr>
+  <tr>
+    <th>Full Name</th>
+    <td><%= @member.full_name %></td>
+  </tr>
+  <tr>
+    <th>Gender</th>
+    <td><%= @member.gender == 0 ? "Man" : "Woman" %></td>
+  </tr>
+  <tr>
+    <th>Birthday</th>
+    <td><%= @member.birthday.try(:strftime, "%YY%mM%dD")%></td>
+  </tr>
+  <tr>
+    <th>Mail Address</th>
+    <td><%= @member.email %></td>
+  </tr>
+  <tr>
+    <th>Administrator</th>
+    <td><%= @member.administrator? ? "o": "-" %></td>
+  </tr>
+</table>

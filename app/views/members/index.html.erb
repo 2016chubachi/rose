@@ -1,0 +1,35 @@
+<% @page_title = "Member List" %>
+<h1> <%= @page_title %> </h1>
+
+<%= form_tag :search_members, method: :get do %>
+<p><%= text_field_tag "q", params[:q] %>
+  <%= submit_tag "Search" %></p>
+<% end %>
+
+
+<p><%= link_to "Member Registration", :new_member %></p>
+
+<% if @members.present? %>
+<table class= "list">
+  <tr>
+    <th>Back Number</th>
+    <th>User Name</th>
+    <th>Name</th>
+    <th>Operation</th>
+  </tr>
+  <% @members.each do | member| %>
+  <tr>
+    <td style="text-align: right"><%= member.number %></td>
+    <td> <%= link_to member.name, member %> </td>
+    <td><%= member.full_name %></td>
+    <td>
+      <%= link_to "edit", [:edit, member] %> |
+      <%= link_to "delete", member, method: :delete,
+            data: { confirm: "Really do you want to delete ?" } %>
+    </td>
+  </tr>
+  <% end %>
+</table>
+<% else %>
+<p> There is no valid User information. </p>
+<% end %>
