@@ -30,13 +30,18 @@ a:visited {color: #00c;}
 a:hover { color: #ccf;}
 a img {border: none;}
 
+/* ブロック要素 */
+p, h1, h2, h3, table, ul {
+  margin: 0 0 1em;
+}
+
 
 /* all boader */
 
 div#container {
 margin: 0 auto;
-padding-top; 5px;
-width: 780px;
+padding-top: 5px;
+width: 1024px;
 
 }
 
@@ -44,15 +49,15 @@ width: 780px;
 
 div#content{
   float: left;
-  width: 530px;
+  width: 730px;
   padding: 10px 10px 10px 0;
 }
 
 /*Right side */
 div#content{
   float: left;
-  width:  230px;
-  background-color:  #e8fff;
+  width:  320px;
+  background-color:  #e8ffff;
   padding: 5px;
   font-size: 86%;
 }

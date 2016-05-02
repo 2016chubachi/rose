@@ -13,7 +13,7 @@ table.list th, table.attr th {
 
 table.list td, table.list th,
 table.attr td, table.attr th {
-  padding 4px;
+  padding: 4px;
 }
 
 table.list th {

@@ -5556,3 +5556,1480 @@ Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bd
 
 
 Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-01 23:33:39 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:35:49 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:35:54 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:36:19 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:36:20 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:36:21 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:36:58 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:37:19 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:37:19 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:38:05 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:38:06 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:38:07 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:38:09 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:38:55 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:38:59 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:40:30 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (2.3ms)
+  Rendered shared/_header.html.erb (3.8ms)
+  Rendered shared/_login_form.html.erb (0.6ms)
+  Rendered shared/_sidebar.html.erb (4.6ms)
+  Rendered shared/_footer.html.erb (0.9ms)
+Completed 200 OK in 381ms (Views: 363.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:40:30 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:40:31 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:40:31 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:40:31 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:40:31 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:41:04 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (2.3ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.1ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 43ms (Views: 42.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:41:04 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:41:04 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:41:04 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:04 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:41:05 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:41:18 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.9ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 53ms (Views: 52.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:41:18 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:41:29 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.4ms)
+  Rendered shared/_header.html.erb (2.4ms)
+  Rendered shared/_login_form.html.erb (0.2ms)
+  Rendered shared/_sidebar.html.erb (2.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 50ms (Views: 49.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:41:29 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:41:41 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.4ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 52ms (Views: 51.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:41:41 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:41:46 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.3ms)
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (1.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 36ms (Views: 35.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:41:46 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:42:12 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (2.9ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (1.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:42:12 +0900
+
+
+Started GET "/lesson/step8" for ::1 at 2016-05-02 00:42:43 +0900
+Processing by LessonController#step8 as HTML
+  Rendered lesson/step8.html.erb within layouts/application (0.6ms)
+  Rendered shared/_header.html.erb (1.9ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.8ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 52ms (Views: 51.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for fe80::1%lo0 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for fe80::1%lo0 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for fe80::1%lo0 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for fe80::1%lo0 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for fe80::1%lo0 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for fe80::1%lo0 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:42:43 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:44:48 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:06 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:07 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:08 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:38 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:39 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:48 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:48 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:49 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:50 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:51 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:45:53 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:09 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:10 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:11 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:13 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:17 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:36 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:37 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:46:44 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:47:19 +0900
+
+
+Started GET "/" for fe80::1%lo0 at 2016-05-02 00:47:20 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:47:58 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (2.7ms)
+  Rendered shared/_header.html.erb (3.9ms)
+  Rendered shared/_login_form.html.erb (0.7ms)
+  Rendered shared/_sidebar.html.erb (8.0ms)
+  Rendered shared/_footer.html.erb (0.8ms)
+Completed 200 OK in 342ms (Views: 329.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/application.self-cac7c1b5adaa7039bb95d99b0291f0df3b97927044888472f0af4cd07cb8723a.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:47:59 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:53:58 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (1.8ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+Completed 200 OK in 48ms (Views: 47.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/application.self-f40f013f56a566e6ec211c105e1c70b8371805c28a8073f67bb57c2937033f2c.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:53:58 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:54:00 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.1ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (3.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 67ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/application.self-f40f013f56a566e6ec211c105e1c70b8371805c28a8073f67bb57c2937033f2c.css?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:54:00 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 00:54:08 +0900
+Processing by MembersController#index as HTML
+  [1m[35mMember Load (0.3ms)[0m  SELECT "members".* FROM "members"  ORDER BY number
+  Rendered members/index.html.erb within layouts/application (35.3ms)
+  Rendered shared/_header.html.erb (4.4ms)
+  Rendered shared/_login_form.html.erb (0.3ms)
+  Rendered shared/_sidebar.html.erb (4.0ms)
+  Rendered shared/_footer.html.erb (0.6ms)
+Completed 200 OK in 113ms (Views: 104.3ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for ::1 at 2016-05-02 00:54:12 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.7ms)
+  Rendered shared/_header.html.erb (1.3ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (1.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 57ms (Views: 56.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-05-02 00:54:38 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.2ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (1.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 46ms (Views: 45.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/application.self-d9de3a96dc73fddae3916777ef75cbdbd8d343a143e15a14975abc7f72675b60.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:54:38 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:54:53 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.2ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 47ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/application.self-f48fa01ea352245e31d724e3704200a4d1c2d00bddf046f6b3c8095f0b7f160c.css?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:54:53 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 00:54:59 +0900
+Processing by MembersController#index as HTML
+  [1m[36mMember Load (0.2ms)[0m  [1mSELECT "members".* FROM "members"  ORDER BY number[0m
+  Rendered members/index.html.erb within layouts/application (6.3ms)
+  Rendered shared/_header.html.erb (1.9ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (3.2ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 46ms (Views: 44.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2016-05-02 00:55:02 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (2.3ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (2.3ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 40.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2016-05-02 00:55:56 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.6ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (3.7ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 64ms (Views: 63.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/application.self-74b58f18501dfe8460106b9698b0afe76c4c2b3472d2d0741ac1ff4b83bc36b3.css?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:55:56 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:55:59 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.1ms)
+  Rendered shared/_login_form.html.erb (0.2ms)
+  Rendered shared/_sidebar.html.erb (3.4ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/application.self-74b58f18501dfe8460106b9698b0afe76c4c2b3472d2d0741ac1ff4b83bc36b3.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:55:59 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 00:56:01 +0900
+Processing by MembersController#index as HTML
+  [1m[35mMember Load (0.3ms)[0m  SELECT "members".* FROM "members"  ORDER BY number
+  Rendered members/index.html.erb within layouts/application (4.2ms)
+  Rendered shared/_header.html.erb (1.9ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (3.5ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/members" for ::1 at 2016-05-02 00:56:28 +0900
+Processing by MembersController#index as HTML
+  [1m[36mMember Load (0.3ms)[0m  [1mSELECT "members".* FROM "members"  ORDER BY number[0m
+  Rendered members/index.html.erb within layouts/application (5.6ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.8ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 48ms (Views: 46.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/application.self-2a5b08daeb6c5efb5222c23470c1e0daff18a7381918a1c561ff798881b57c4c.css?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:56:28 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 00:56:29 +0900
+Processing by MembersController#index as HTML
+  [1m[35mMember Load (0.2ms)[0m  SELECT "members".* FROM "members"  ORDER BY number
+  Rendered members/index.html.erb within layouts/application (5.5ms)
+  Rendered shared/_header.html.erb (3.7ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (3.1ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 53ms (Views: 52.1ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/application.self-2a5b08daeb6c5efb5222c23470c1e0daff18a7381918a1c561ff798881b57c4c.css?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:56:30 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 00:59:33 +0900
+Processing by MembersController#index as HTML
+  [1m[36mMember Load (0.2ms)[0m  [1mSELECT "members".* FROM "members"  ORDER BY number[0m
+  Rendered members/index.html.erb within layouts/application (4.3ms)
+  Rendered shared/_header.html.erb (1.4ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.9ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 53ms (Views: 52.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/application.self-0b82085d5edd71bcf8e7ddd2abd8cddd7717cef7194adb4384c02fea144eb536.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 00:59:33 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:59:34 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 00:59:34 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:59:34 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 00:59:34 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 00:59:34 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 00:59:34 +0900
+
+
+Started GET "/" for ::1 at 2016-05-02 00:59:45 +0900
+Processing by TopController#index as HTML
+  Rendered top/index.html.erb within layouts/application (0.2ms)
+  Rendered shared/_header.html.erb (1.1ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.9ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 36ms (Views: 35.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2016-05-02 01:01:05 +0900
+Processing by TopController#about as HTML
+  Rendered top/about.html.erb within layouts/application (0.4ms)
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_login_form.html.erb (0.0ms)
+  Rendered shared/_sidebar.html.erb (2.4ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 55ms (Views: 54.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2016-05-02 01:01:24 +0900
+Processing by TopController#about as HTML
+  Rendered top/about.html.erb within layouts/application (0.1ms)
+  Rendered shared/_header.html.erb (1.1ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (3.3ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 42ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2016-05-02 01:04:24 +0900
+Processing by TopController#about as HTML
+  Rendered top/about.html.erb within layouts/application (0.5ms)
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_login_form.html.erb (0.4ms)
+  Rendered shared/_sidebar.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/application.self-0b82085d5edd71bcf8e7ddd2abd8cddd7717cef7194adb4384c02fea144eb536.css?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 01:04:25 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 01:05:47 +0900
+Processing by MembersController#index as HTML
+  [1m[35mMember Load (0.4ms)[0m  SELECT "members".* FROM "members"  ORDER BY number
+  Rendered members/index.html.erb within layouts/application (12.8ms)
+  Rendered shared/_header.html.erb (1.1ms)
+  Rendered shared/_login_form.html.erb (0.8ms)
+  Rendered shared/_sidebar.html.erb (4.7ms)
+  Rendered shared/_footer.html.erb (0.2ms)
+Completed 200 OK in 58ms (Views: 53.0ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/members" for ::1 at 2016-05-02 21:15:01 +0900
+Processing by MembersController#index as HTML
+  [1m[36mMember Load (2.3ms)[0m  [1mSELECT "members".* FROM "members"  ORDER BY number[0m
+  Rendered members/index.html.erb within layouts/application (21.0ms)
+  Rendered shared/_header.html.erb (3.2ms)
+  Rendered shared/_login_form.html.erb (0.1ms)
+  Rendered shared/_sidebar.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (0.3ms)
+Completed 200 OK in 118ms (Views: 105.3ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/application.self-0b82085d5edd71bcf8e7ddd2abd8cddd7717cef7194adb4384c02fea144eb536.css?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 21:15:01 +0900
+
+
+Started GET "/members" for ::1 at 2016-05-02 21:18:27 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MembersController#index as HTML
+  [1m[35mMember Load (0.7ms)[0m  SELECT "members".* FROM "members"  ORDER BY number
+  Rendered members/index.html.erb within layouts/application (18.0ms)
+  Rendered shared/_header.html.erb (1.7ms)
+  Rendered shared/_login_form.html.erb (0.3ms)
+  Rendered shared/_sidebar.html.erb (2.9ms)
+  Rendered shared/_footer.html.erb (0.4ms)
+Completed 200 OK in 357ms (Views: 338.2ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/errors.self-ecc7134c7be69874d13181d502e96ccaddd5f58eec196e0ed470b034ad3a291f.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/flash.self-86e815506241a166934f33f1bb3bf1327d7bbbb277915127febc13154fb61468.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/lesson.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/table.self-12a14739af04f65671f57a88ba08e16e1d19bb5210ccedf38a37c942c4c86a9e.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/application.self-0b82085d5edd71bcf8e7ddd2abd8cddd7717cef7194adb4384c02fea144eb536.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/members.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/top.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/jquery.self-660adc51e0224b731d29f575a6f1ec167ba08ad06ed5deca4f1e8654c135bf4c.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/jquery_ujs.self-e87806d0cf4489aeb1bb7288016024e8de67fd18db693fe026fe3907581e53cd.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/lesson.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/members.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/top.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for ::1 at 2016-05-02 21:18:28 +0900
+
+
+Started GET "/assets/redhat-db80a16439aacf149dc1d94f064f29d70d4c1188a668d41fe096b059117bd7a6.png" for ::1 at 2016-05-02 21:18:28 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (1.8ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateArticles (20160502131405)
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36m (0.5ms)[0m  [1mCREATE TABLE "articles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "body" text NOT NULL, "released_at" datetime NOT NULL, "expired_at" datetime, "member_only" boolean DEFAULT 'f' NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20160502131405"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.2ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (1.4ms)[0m  [1mCREATE TABLE "articles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "body" text NOT NULL, "released_at" datetime NOT NULL, "expired_at" datetime, "member_only" boolean DEFAULT 'f' NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.4ms)[0m  CREATE TABLE "members" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "number" integer NOT NULL, "name" varchar NOT NULL, "full_name" varchar, "email" varchar, "birthday" date, "gender" integer DEFAULT 0 NOT NULL, "administrator" boolean DEFAULT 'f' NOT NULL, "created_at" datetime, "updated_at" datetime) 
+  [1m[36m (1.4ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (1.2ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.2ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (1.4ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20160502131405')[0m
+  [1m[35m (2.5ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160430045813')
+  [1m[36m (1.2ms)[0m  [1mCREATE TABLE "articles" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar NOT NULL, "body" text NOT NULL, "released_at" datetime NOT NULL, "expired_at" datetime, "member_only" boolean DEFAULT 'f' NOT NULL, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (1.1ms)[0m  CREATE TABLE "members" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "number" integer NOT NULL, "name" varchar NOT NULL, "full_name" varchar, "email" varchar, "birthday" date, "gender" integer DEFAULT 0 NOT NULL, "administrator" boolean DEFAULT 'f' NOT NULL, "created_at" datetime, "updated_at" datetime) 
+  [1m[36m (0.9ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.1ms)[0m  select sqlite_version(*)
+  [1m[36m (1.1ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35m (0.2ms)[0m  SELECT version FROM "schema_migrations"
+  [1m[36m (1.2ms)[0m  [1mINSERT INTO "schema_migrations" (version) VALUES ('20160502131405')[0m
+  [1m[35m (1.2ms)[0m  INSERT INTO "schema_migrations" (version) VALUES ('20160430045813')
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.4ms)[0m  begin transaction
+  [1m[36mMember Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE "members"."number" = 10 LIMIT 1[0m
+  [1m[35mMember Exists (0.1ms)[0m  SELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Taro') LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "administrator", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["number", 10], ["name", "Taro"], ["full_name", "Sato Taro"], ["email", "Taro@example.com"], ["birthday", "1981-12-01"], ["administrator", "t"], ["created_at", "2016-05-02 13:24:10.028898"], ["updated_at", "2016-05-02 13:24:10.028898"]]
+  [1m[35m (1.2ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mMember Exists (0.2ms)[0m  SELECT  1 AS one FROM "members" WHERE "members"."number" = 11 LIMIT 1
+  [1m[36mMember Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Jiro') LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["number", 11], ["name", "Jiro"], ["full_name", "Suzuki Jiro"], ["email", "Jiro@example.com"], ["birthday", "1981-12-01"], ["created_at", "2016-05-02 13:24:10.033922"], ["updated_at", "2016-05-02 13:24:10.033922"]]
+  [1m[36m (0.9ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mMember Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE "members"."number" = 12 LIMIT 1[0m
+  [1m[35mMember Exists (0.1ms)[0m  SELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Hana') LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "gender", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["number", 12], ["name", "Hana"], ["full_name", "Takahashi Hanako"], ["email", "Hana@example.com"], ["birthday", "1981-12-01"], ["gender", 1], ["created_at", "2016-05-02 13:24:10.038025"], ["updated_at", "2016-05-02 13:24:10.038025"]]
+  [1m[35m (0.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mMember Exists (0.2ms)[0m  SELECT  1 AS one FROM "members" WHERE "members"."number" = 13 LIMIT 1
+  [1m[36mMember Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('John') LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["number", 13], ["name", "John"], ["full_name", "Tanaka Taro"], ["email", "John@example.com"], ["birthday", "1981-12-01"], ["created_at", "2016-05-02 13:24:10.043231"], ["updated_at", "2016-05-02 13:24:10.043231"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mMember Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE "members"."number" = 14 LIMIT 1[0m
+  [1m[35mMember Exists (0.1ms)[0m  SELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Mike') LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["number", 14], ["name", "Mike"], ["full_name", "Sato Jiro"], ["email", "Mike@example.com"], ["birthday", "1981-12-01"], ["created_at", "2016-05-02 13:24:10.047787"], ["updated_at", "2016-05-02 13:24:10.047787"]]
+  [1m[35m (0.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mMember Exists (0.2ms)[0m  SELECT  1 AS one FROM "members" WHERE "members"."number" = 15 LIMIT 1
+  [1m[36mMember Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Sophy') LIMIT 1[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "gender", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["number", 15], ["name", "Sophy"], ["full_name", "Suzuki Hanako"], ["email", "Sophy@example.com"], ["birthday", "1981-12-01"], ["gender", 1], ["created_at", "2016-05-02 13:24:10.052352"], ["updated_at", "2016-05-02 13:24:10.052352"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mMember Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE "members"."number" = 16 LIMIT 1[0m
+  [1m[35mMember Exists (0.1ms)[0m  SELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Bill') LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["number", 16], ["name", "Bill"], ["full_name", "Takahashi Taro"], ["email", "Bill@example.com"], ["birthday", "1981-12-01"], ["created_at", "2016-05-02 13:24:10.057148"], ["updated_at", "2016-05-02 13:24:10.057148"]]
+  [1m[35m (1.0ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mMember Exists (0.2ms)[0m  SELECT  1 AS one FROM "members" WHERE "members"."number" = 17 LIMIT 1
+  [1m[36mMember Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Alex') LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["number", 17], ["name", "Alex"], ["full_name", "Tanaka Jiro"], ["email", "Alex@example.com"], ["birthday", "1981-12-01"], ["created_at", "2016-05-02 13:24:10.064067"], ["updated_at", "2016-05-02 13:24:10.064067"]]
+  [1m[36m (0.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mMember Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE "members"."number" = 18 LIMIT 1[0m
+  [1m[35mMember Exists (0.1ms)[0m  SELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Mary') LIMIT 1
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "gender", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["number", 18], ["name", "Mary"], ["full_name", "Sato Hanako"], ["email", "Mary@example.com"], ["birthday", "1981-12-01"], ["gender", 1], ["created_at", "2016-05-02 13:24:10.069576"], ["updated_at", "2016-05-02 13:24:10.069576"]]
+  [1m[35m (0.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mMember Exists (0.2ms)[0m  SELECT  1 AS one FROM "members" WHERE "members"."number" = 19 LIMIT 1
+  [1m[36mMember Exists (0.3ms)[0m  [1mSELECT  1 AS one FROM "members" WHERE LOWER("members"."name") = LOWER('Tom') LIMIT 1[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "members" ("number", "name", "full_name", "email", "birthday", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["number", 19], ["name", "Tom"], ["full_name", "Suzuki Taro"], ["email", "Tom@example.com"], ["birthday", "1981-12-01"], ["created_at", "2016-05-02 13:24:10.075626"], ["updated_at", "2016-05-02 13:24:10.075626"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "articles" ("title", "body", "released_at", "expired_at", "member_only", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["title", "Result of test game0"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-24 13:24:10.080735"], ["expired_at", "2016-04-30 13:24:10.081059"], ["member_only", "t"], ["created_at", "2016-05-02 13:24:10.087591"], ["updated_at", "2016-05-02 13:24:10.087591"]]
+  [1m[35m (0.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "body", "released_at", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["title", "Result of test game1"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-25 13:24:10.090456"], ["expired_at", "2016-05-01 13:24:10.090662"], ["created_at", "2016-05-02 13:24:10.091382"], ["updated_at", "2016-05-02 13:24:10.091382"]]
+  [1m[36m (0.7ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "articles" ("title", "body", "released_at", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["title", "Result of test game2"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-26 13:24:10.093481"], ["expired_at", "2016-05-02 13:24:10.093640"], ["created_at", "2016-05-02 13:24:10.094281"], ["updated_at", "2016-05-02 13:24:10.094281"]]
+  [1m[35m (0.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  INSERT INTO "articles" ("title", "body", "released_at", "expired_at", "member_only", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["title", "Result of test game3"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-27 13:24:10.096438"], ["expired_at", "2016-05-03 13:24:10.096724"], ["member_only", "t"], ["created_at", "2016-05-02 13:24:10.097640"], ["updated_at", "2016-05-02 13:24:10.097640"]]
+  [1m[36m (0.9ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "body", "released_at", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["title", "Result of test game4"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-28 13:24:10.100661"], ["expired_at", "2016-05-04 13:24:10.100924"], ["created_at", "2016-05-02 13:24:10.101654"], ["updated_at", "2016-05-02 13:24:10.101654"]]
+  [1m[35m (0.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.2ms)[0m  INSERT INTO "articles" ("title", "body", "released_at", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["title", "Result of test game5"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-29 13:24:10.103732"], ["expired_at", "2016-05-05 13:24:10.103930"], ["created_at", "2016-05-02 13:24:10.104598"], ["updated_at", "2016-05-02 13:24:10.104598"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "body", "released_at", "expired_at", "member_only", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["title", "Result of test game6"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-04-30 13:24:10.106954"], ["expired_at", "2016-05-06 13:24:10.107215"], ["member_only", "t"], ["created_at", "2016-05-02 13:24:10.108213"], ["updated_at", "2016-05-02 13:24:10.108213"]]
+  [1m[35m (0.7ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "articles" ("title", "body", "released_at", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)  [["title", "Result of test game7"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-05-01 13:24:10.110448"], ["expired_at", "2016-05-07 13:24:10.110625"], ["created_at", "2016-05-02 13:24:10.111401"], ["updated_at", "2016-05-02 13:24:10.111401"]]
+  [1m[36m (1.5ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (0.3ms)[0m  [1mINSERT INTO "articles" ("title", "body", "released_at", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["title", "Result of test game8"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-05-02 13:24:10.115910"], ["expired_at", "2016-05-08 13:24:10.116195"], ["created_at", "2016-05-02 13:24:10.117437"], ["updated_at", "2016-05-02 13:24:10.117437"]]
+  [1m[35m (0.8ms)[0m  commit transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "articles" ("title", "body", "released_at", "expired_at", "member_only", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)  [["title", "Result of test game9"], ["body", " We win Sunflower team with 4:2"], ["released_at", "2016-05-03 13:24:10.120081"], ["expired_at", "2016-05-09 13:24:10.120347"], ["member_only", "t"], ["created_at", "2016-05-02 13:24:10.121413"], ["updated_at", "2016-05-02 13:24:10.121413"]]
+  [1m[36m (0.8ms)[0m  [1mcommit transaction[0m

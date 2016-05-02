@@ -8,6 +8,6 @@ Rails.application.routes.draw do
     collection { get "search"}
   end
 
-
+  resources :articles
 
 end
